@@ -10,7 +10,7 @@
 
 ## 📊 Progress Tracker
 
-[![Month 1](https://img.shields.io/badge/Month%201-Completed-brightgreen)](projects/month-01-linux-fundamentals/README.md)
+[![Month 1](https://img.shields.io/badge/Month%201-In_Progress-yellow)](projects/month-01-linux-fundamentals/README.md)
 [![Month 2](https://img.shields.io/badge/Month%202-In_Progress-yellow)](projects/month-02-python-bioinformatics/README.md)
 [![Month 3](https://img.shields.io/badge/Month%203-Not_Started-lightgrey)](projects/month-03-data-science/README.md)
 [![Month 4](https://img.shields.io/badge/Month%204-Not_Started-lightgrey)](projects/month-04-genomics-sequence-analysis/README.md)
@@ -125,12 +125,12 @@ Transitioning from a **Master's in Biomedical Science** to computational biology
 ## 📈 Skills Development Tracker
 
 ### Technical Skills
-- **Linux/Unix**: ⭐⭐⭐⭐⭐ (Proficient)
-- **Python**: ⭐⭐⭐⭐☆ (Advanced)
+- **Linux/Unix**: ⭐☆☆☆☆☆(Newbie)
+- **Python**: ⭐⭐☆☆☆ (Learning)
 - **R**: ⭐⭐⭐☆☆ (Intermediate)
 - **Bioinformatics Tools**: ⭐⭐⭐☆☆ (Learning)
-- **Machine Learning**: ⭐⭐☆☆☆ (Beginner)
-- **Statistical Analysis**: ⭐⭐⭐⭐☆ (Advanced)
+- **Machine Learning**: ⭐☆☆☆☆ (Beginner)
+- **Statistical Analysis**: ⭐⭐⭐☆☆(Advanced)
 
 ### Domain Knowledge
 - **Molecular Biology**: ⭐⭐⭐⭐⭐ (Expert - Master's degree)
@@ -184,15 +184,9 @@ I'm always interested in connecting with fellow researchers, PhD students, and b
 - **Network**: Connecting with the global bioinformatics community
 
 **Contact:**
-- 📧 Email: [your-email@domain.com](mailto:your-email@domain.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- 🐧 Twitter: [@YourHandle](your-twitter-url)
-
----
-
-## 📄 License
-
-This repository is open source and available under the [MIT License](LICENSE).
+- 📧 Email: [abdellah.chaaibi.edu@gmail.com](mailto:abdellah.chaaibi.edu@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://ma.linkedin.com/in/abdellahchaaibi)
+- 🐧 X: [@flagflieger](https://x.com/flagflieger)
 
 ---
 
