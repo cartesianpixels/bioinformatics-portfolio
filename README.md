@@ -185,7 +185,7 @@ I'm always interested in connecting with fellow researchers, PhD students, and b
 
 **Contact:**
 - 📧 Email: [abdellah.chaaibi.edu@gmail.com](mailto:abdellah.chaaibi.edu@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://ma.linkedin.com/in/abdellahchaaibi)
+- 💼 LinkedIn: [I'm on LinkedIn](https://ma.linkedin.com/in/abdellahchaaibi)
 - 🐧 X: [@flagflieger](https://x.com/flagflieger)
 
 ---
