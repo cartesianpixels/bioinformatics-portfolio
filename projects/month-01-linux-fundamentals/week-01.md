@@ -1,43 +1,39 @@
-# Week 01: [Insert Topic / Month Focus]
+# Week 01: Linux Fundamentals
 
-**Dates:** [Start Date] - [End Date]
+**Dates:** September 2, 2025 - September 7, 2025
 
 ---
 
 ## 🎯 Objectives
-- [ ] Objective 1
-- [ ] Objective 2
-- [ ] Objective 3
+- [x] Learn Linux basics and command line navigation
+- [x] Practice essential file management commands (cp, mv, rm, etc.)
+- [ ] Explore Linux help resources (man pages, online tutorials)
 
 ---
 
 ## 💻 Tasks Completed
-- Day 1: [Brief description of what you did]
-- Day 2: [Brief description of what you did]
-- Day 3: [Brief description of what you did]
-- Day 4: [Brief description of what you did]
-- Day 5: [Brief description of what you did]
-- Day 6-7: [Wrap-up / mini-project / practice]
+Day 1: Learned Linux basics & command line using [Linux Journey](https://labex.io/linuxjourney)
 
 ---
 
 ## 📝 Notes / Challenges
-- [Write down difficulties, errors, or insights]
-- [Tips for next time]
+Faced initial confusion with command syntax and navigation. Resolved by practicing commands and referencing Linux Journey.
+Tip: Use 'man' pages and online tutorials for quick help.
 
 ---
 
 ## 📊 Results / Outputs
-- [Scripts written, datasets processed, plots generated, analysis results]
-- [Links to any files / notebooks in the repo]
+Practiced basic shell commands and navigation. No scripts written yet.
+Reference: [Linux Journey](https://labex.io/linuxjourney)
 
 ---
 
 ## 🔜 Goals for Next Week
-- [List 2-3 goals/tasks for the next week]
+1. write shell scripts to execute repetitive tasks ✅ Already done creating this repo.
+2. Explore permissions and user management.
+3. Complete a mini-project using the command line.
 
 ---
 
 ## 📚 Resources Used
-- [Links to tutorials, datasets, or references]
-
+- [Linux Journey](https://labex.io/linuxjourney)
