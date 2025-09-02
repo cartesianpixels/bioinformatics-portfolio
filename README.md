@@ -11,7 +11,7 @@
 ## 📊 Progress Tracker
 
 [![Month 1](https://img.shields.io/badge/Month%201-In_Progress-yellow)](projects/month-01-linux-fundamentals/README.md)
-[![Month 2](https://img.shields.io/badge/Month%202-In_Progress-yellow)](projects/month-02-python-bioinformatics/README.md)
+[![Month 2](https://img.shields.io/badge/Month%202-Not_Started-lightgrey)](projects/month-02-python-bioinformatics/README.md)
 [![Month 3](https://img.shields.io/badge/Month%203-Not_Started-lightgrey)](projects/month-03-data-science/README.md)
 [![Month 4](https://img.shields.io/badge/Month%204-Not_Started-lightgrey)](projects/month-04-genomics-sequence-analysis/README.md)
 [![Month 5](https://img.shields.io/badge/Month%205-Not_Started-lightgrey)](projects/month-05-ngs-analysis/README.md)
